@@ -13,10 +13,10 @@ p {
 }
 
 .table-border {
-    max-width: 250px ;
-    max-height: 300px ;
+ border: 1px solid #000000;
 }
 
 #photo-resize {
-    border: 1px solid #000000;
+    max-width: 250px ;
+    max-height: 300px ;
 }
